@@ -1,0 +1,55 @@
+{
+  "name": "isNotTenThousand",
+  "description": "Return true if the given number is not ten thousand.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/nkomirisetti/isNotTenThousand",
+  "author": "Nikhil Komirisetti (https://github.com/nkomirisetti)",
+  "repository": "nkomirisetti/isNotTenThousand",
+  "bugs": {
+    "url": "https://github.com/nkomirisetti/isNotTenThousand/issues"
+  },
+  "license": "UNC",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "is-ten-thousand": "latest",
+    "stalinsort" : "latest"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.12",
+    "mocha": "^3.4.2"
+  },
+  "keywords": [
+    "array",
+    "count",
+    "even",
+    "filter",
+    "integer",
+    "is",
+    "math",
+    "numeric",
+    "odd",
+    "string"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  }
+}
