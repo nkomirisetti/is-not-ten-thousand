@@ -1,5 +1,5 @@
 /*!
- * isNotTenThousand <https://github.com/nkomirisetti/isNotTenThousand>
+ * is-not-ten-thousand <https://github.com/nkomirisetti/is-not-ten-thousand>
  *
  * Copyright (c) 2015, 2017, Nikhil Komirisetti.
  * Released under the MIT License.

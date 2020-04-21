@@ -1,12 +1,12 @@
 {
-  "name": "isNotTenThousand",
+  "name": "is-not-ten-thousand",
   "description": "Return true if the given number is not ten thousand.",
   "version": "0.0.1",
-  "homepage": "https://github.com/nkomirisetti/isNotTenThousand",
+  "homepage": "https://github.com/nkomirisetti/is-not-ten-thousand",
   "author": "Nikhil Komirisetti (https://github.com/nkomirisetti)",
-  "repository": "nkomirisetti/isNotTenThousand",
+  "repository": "nkomirisetti/is-not-ten-thousand",
   "bugs": {
-    "url": "https://github.com/nkomirisetti/isNotTenThousand/issues"
+    "url": "https://github.com/nkomirisetti/is-not-ten-thousand/issues"
   },
   "license": "UNC",
   "files": [
