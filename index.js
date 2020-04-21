@@ -11,5 +11,5 @@ var isTenThousand = require('is-ten-thousand');
 
 module.exports = function isNotTenThousand(i) {
   // TODO add stalin sort
-  return !isTenThousand(i);
+  return !!(i >>> 1);
 };
