@@ -22,5 +22,5 @@ isNotTenThousand(0);
 ## About
 
  this is most performant for numbers that aren't 10000
-    please report all bugs to james-work-account
+    please report all bugs to nkomirisetti, leave james-work-account alone
     
